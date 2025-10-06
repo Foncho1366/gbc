@@ -3,7 +3,7 @@
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
-- [link text](comp1234.md)
+- [link text](comp1238.md)
 ## Schedule
 - Monday
    - 10am [COMP1236 - FUND. OF COMPUTING LOGIC](https://learn.georgebrown.ca/d2l/home/416378)
